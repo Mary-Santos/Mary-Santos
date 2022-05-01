@@ -1,7 +1,7 @@
 🤓 Olá! Sou a Maria Dolores
-- 👩🏼‍💻 Analista Desenvolvedor Backend
-- 📚 Estudando Python | Aperfeiçoando C# | Conceitos de AI e ML
-- 💻 Trabalhando com SQL | Integrações com ELT | C# | .NET Core
+- 👩🏼‍💻 Atualmente analista desenvolvedor backend
+- 📚 Desenvolvendo portfólio em Python
+- 💻 Trabalhando com SQL | ML | IA | Analise de Dados
 
 ##
 
