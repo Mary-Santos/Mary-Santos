@@ -1,7 +1,7 @@
 🤓 Olá! Sou a Maria Dolores
 - 👩🏼‍💻 Atualmente analista desenvolvedor backend
 - 📚 Desenvolvendo portfólio em Python
-- 💻 Trabalhando com SQL | ML | IA | Analise de Dados
+- 💻 Trabalhando com SQL | ML | IA | Análise de Dados
 
 ##
 
